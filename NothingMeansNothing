@@ -2302,17 +2302,3 @@ function Material.Load(Config)
 
 	return TabLibrary
 end
-
-return Material
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
